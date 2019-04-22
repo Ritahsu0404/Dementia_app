@@ -1,0 +1,13 @@
+/Users/ritahsu/Projects/Dementia/Dementia/bin/Debug/netstandard2.0/Dementia.deps.json
+/Users/ritahsu/Projects/Dementia/Dementia/bin/Debug/netstandard2.0/Dementia.dll
+/Users/ritahsu/Projects/Dementia/Dementia/bin/Debug/netstandard2.0/Dementia.pdb
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/Dementia.csprojAssemblyReference.cache
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/Dementia.csproj.CoreCompileInputs.cache
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/Dementia.AssemblyInfoInputs.cache
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/Dementia.AssemblyInfo.cs
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/Dementia.dll
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/Dementia.pdb
+/Users/ritahsu/Projects/Dementia/Dementia/obj/Debug/netstandard2.0/Homepage.xaml.g.cs
